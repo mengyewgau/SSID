@@ -48,3 +48,5 @@ config/environments/test.rb
 config/database.yml
 config/database.yml
 config/environments/development.rb
+db/schema.rb
+config/environments/production.rb
