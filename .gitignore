@@ -45,8 +45,11 @@ config/database.yml
 config/environments/development.rb
 config/environments/production.rb
 config/environments/test.rb
+<<<<<<< HEAD
 config/database.yml
 config/database.yml
 config/environments/development.rb
 db/schema.rb
 config/environments/production.rb
+=======
+>>>>>>> parent of b9cbfaa (Update .gitignore)
