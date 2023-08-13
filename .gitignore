@@ -44,3 +44,8 @@ yarn-debug.log*
 *.yml
 config/database.yml
 config/database.yml
+Gemfile
+Gemfile.lock
+Gemfile
+Gemfile
+Gemfile.lock
